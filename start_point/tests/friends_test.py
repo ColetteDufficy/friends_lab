@@ -60,7 +60,7 @@ class TestFriends(unittest.TestCase):
       }
     }
 
-    self.people = [self.person1, self.person2, self.person3, self.person4, self.person5]
+    self.peoples = [self.person1, self.person2, self.person3, self.person4, self.person5]
 
 
   # 1. For a given person, return their name
