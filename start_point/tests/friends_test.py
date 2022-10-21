@@ -1,6 +1,8 @@
 import unittest
 from src.friends import *
 
+#adding something important
+
 class TestFriends(unittest.TestCase):
 
   def setUp(self):
